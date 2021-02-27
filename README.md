@@ -2,7 +2,7 @@
 
 <a href="https://github.com/necolas/normalize.css"><img
   src="https://necolas.github.io/normalize.css/logo.svg" alt="Normalize Logo"
-  width="80" height="80" align="right"></a>
+  width="150" height="80" align="right"></a>
 
 > A modern alternative to CSS resets
 
